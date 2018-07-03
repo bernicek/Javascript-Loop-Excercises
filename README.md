@@ -1,6 +1,7 @@
 # Javascript-Loop-Excercises
 
-   ++ Create a JavaScript file
+   ++ Create a JavaScript file.
+   
    ++ Solve each of the given problems, writing a loop the outputs the given output to the JavaScript console.
 
 # Questions
